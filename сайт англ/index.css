@@ -1,0 +1,22 @@
+.body{
+  color: purple;
+}
+h1 {
+  color: purple;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Georgia, serif;
+  margin-bottom: 5px;
+}
+p{font-weight: bold;
+  margin-top: 5px;
+  height: 50px;
+  background-color: lightpink;
+  border: 3px solid lightblue;
+  padding-top: 40px;
+}
+a{color: paleturquoise;
+}
+img{width: 100%;
+max-width: 200px;
+}
